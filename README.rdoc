@@ -1,5 +1,21 @@
 == README
 
+The Heroku page for this app is: http://secure-springs-2490.herokuapp.com/
+
+System: Ubuntu 13.04
+
+What I did:
+
+* Installed Ruby, Gem, Rails
+
+* Set up Heroku, Git
+
+* Created new app using PostgreSQL
+
+
+----------------
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
