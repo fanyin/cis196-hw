@@ -4,6 +4,18 @@ The Heroku page for this app is: http://secure-springs-2490.herokuapp.com/
 
 System: Ubuntu 13.04
 
+Homework 2
+
+What I did:
+
+* Put a link, form, and picture on index.html
+
+* No issues 
+
+--------------------------
+
+Homework 1
+
 What I did:
 
 * Installed Ruby, Gem, Rails
@@ -12,33 +24,3 @@ What I did:
 
 * Created new app using PostgreSQL
 
-
-----------------
-
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
