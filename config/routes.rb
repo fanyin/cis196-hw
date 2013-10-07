@@ -1,4 +1,11 @@
 Site::Application.routes.draw do
+  
+  resources :users
+  resources :tasklists
+
+  root :to => "landing_pages#home"
+  get "landing_pages/home"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

@@ -15,10 +15,11 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: site_development
+  database: ruby_dev
+  host: localhost
   pool: 5
-  username: site
-  password:
+  username: project0
+  password: abc
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
