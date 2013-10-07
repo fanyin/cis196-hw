@@ -1,4 +1,8 @@
 Project0::Application.routes.draw do
+  get "tasklists/index"
+  get "tasklists/new"
+  get "tasklists/edit"
+  get "tasklists/show"
   root 'landing_pages#home'
   
   get "landing_pages/home"
