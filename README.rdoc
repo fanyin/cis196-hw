@@ -4,6 +4,24 @@ The Heroku page for this app is: http://secure-springs-2490.herokuapp.com/
 
 System: Ubuntu 13.04
 
+Homework 5
+
+What I did:
+
+* Added show, edit, and destroy capabilities to User
+
+* Added model and controller for TaskList
+
+* Added index, show, edit, and new pages for TaskList, along with all capabilities
+
+* Added links for show, edit and destroy
+
+I had some pretty big problems dealing with Rails 4.0 and the "strong parameters".
+It caused my tables and controllers to not work correctly and I couldn't figure out why.
+As a result I switched to Rails 3.2 so I could more closely follow the lecture material
+
+------------------------
+
 Homework 4
 
 What I did:
