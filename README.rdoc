@@ -4,6 +4,20 @@ The Heroku page for this app is: http://secure-springs-2490.herokuapp.com/
 
 System: Ubuntu 13.04
 
+Homework 4
+
+What I did:
+
+* Created models for User, TaskList, Task (I was going to do something different but I realized I would just be changing names)
+
+* Created landing page with links to other pages
+
+* Created page to add new users and to view all users
+
+* One issue I ran into was the syntax for adding new users, required User.new(params[:user].permit(x, y, z))
+
+------------------------
+
 Homework 2
 
 What I did:
