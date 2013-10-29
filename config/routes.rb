@@ -1,7 +1,9 @@
 Site::Application.routes.draw do
   
-  resources :users
+  devise_for :users
+
   resources :tasklists
+  resources :users
 
   root :to => "landing_pages#home"
   get "landing_pages/home"
