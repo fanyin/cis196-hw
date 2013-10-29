@@ -2,7 +2,23 @@
 
 The Heroku page for this app is: http://secure-springs-2490.herokuapp.com/
 
-System: Ubuntu 13.04
+System: Ubuntu 13.10
+
+Homework 7
+
+What I did:
+
+* Added the Devise gem
+
+* Removed new User link on home page
+
+* Added NavBar to top of page
+
+* Changed create tasklist to be only for current user
+
+* Functionality changes are what you would expect from Devise
+
+------------------
 
 Homework 6
 
