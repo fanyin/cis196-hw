@@ -23,6 +23,10 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+group :development do
+  gem 'letter_opener', github: 'ryanb/letter_opener'
+end
+
 gem 'jquery-rails'
 
 gem 'devise', '3.0'
