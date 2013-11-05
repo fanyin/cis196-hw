@@ -4,6 +4,16 @@ The Heroku page for this app is: http://secure-springs-2490.herokuapp.com/
 
 System: Ubuntu 13.10
 
+Homework 8
+
+What I did:
+
+* Added heroku sendgrid
+
+* Sends an email notification every time a tasklist is created
+
+-----------------
+
 Homework 7
 
 What I did:
