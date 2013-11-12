@@ -4,6 +4,16 @@ The Heroku page for this app is: http://secure-springs-2490.herokuapp.com/
 
 System: Ubuntu 13.10
 
+Homework 9
+
+What I did:
+
+* Added a scope to get the 3 most recent objects
+
+* Changed tasklist view to show 3 most recent as well as all of them
+
+-----------------
+
 Homework 8
 
 What I did:
